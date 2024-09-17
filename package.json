@@ -1,7 +1,7 @@
 {
   "name": "com.rimurudev.platform-define-switcher",
   "displayName": "Unity Platform Define Switcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2020.3",
   "description": "A tool for managing and switching platform-specific scripting defines in Unity.",
   "keywords": [
