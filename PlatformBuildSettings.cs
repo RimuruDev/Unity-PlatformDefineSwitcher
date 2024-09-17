@@ -10,7 +10,7 @@ namespace AbyssMoth
         private BuildPlatform selectedPlatform = BuildPlatform.None;
         private GUIStyle greenTextStyle;
 
-        [MenuItem("Platform Build Settings/Platform Build Settings")]
+        [MenuItem("RimuruDev Tools/Platform Build Settings")]
         public static void ShowWindow() =>
             GetWindow<PlatformBuildSettings>("Platform Build Settings");
 
