@@ -104,3 +104,8 @@ If you encounter any issues or have questions, please open an [issue](https://gi
 
 - Inspired by the need to simplify platform-specific build configurations in Unity projects.
 - Thanks to the Unity community for their continuous support and contributions.
+- 
+
+# TODO:
+- Add hotkey
+- Add all popular stores
